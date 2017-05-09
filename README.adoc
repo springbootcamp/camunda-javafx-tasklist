@@ -1,0 +1,8 @@
+# javafx-tasklist
+
+A Camunda task list written with kotlin, spring boot and java fx
+
+
+## Log
+
+- create with start.spring.io
