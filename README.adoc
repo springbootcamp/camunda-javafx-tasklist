@@ -5,4 +5,9 @@ A Camunda task list written with kotlin, spring boot and java fx
 
 ## Log
 
+
 - create with start.spring.io
+
+- switched back to maven (not everything at once)
+- use springboot-javafx-support
+
