@@ -1,0 +1,12 @@
+spring:
+  jmx:
+    enabled: false
+server:
+  port: 10101
+camunda:
+  bpm:
+    admin-user:
+      id: admin
+      password: admin
+    filter:
+      create: All

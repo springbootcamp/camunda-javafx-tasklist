@@ -1,0 +1,6 @@
+spring:
+  jmx:
+    enabled: false
+
+tasklist.endpoint: http://localhost:10101/rest
+

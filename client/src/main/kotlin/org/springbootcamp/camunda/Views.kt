@@ -14,6 +14,9 @@ import javafx.scene.layout.StackPane
 class HelloWorldView : AbstractFxmlView()
 
 @FXMLView
+class MainView : AbstractFxmlView()
+
+@FXMLView
 class SecondJavaView : AbstractFxmlView() {
 
   private val pane: Pane

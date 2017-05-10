@@ -1,4 +1,4 @@
-package org.springbootcamp.camunda
+package org.springbootcamp.camunda.eventhandler
 
 import javafx.event.ActionEvent
 import javafx.event.EventHandler
